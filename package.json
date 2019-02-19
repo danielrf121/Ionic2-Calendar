@@ -1,18 +1,18 @@
 {
-    "name": "ionic2-calendar",
-    "version": "0.2.19",
+    "name": "ionic-calendar-events",
+    "version": "1.0.1",
     "description": "Ionic2 calendar component",
     "keywords": [
-        "Ionic2",
-        "calendar"
+        "ionic",
+        "alendar"
     ],
     "author": {
-        "name": "twinssbc"
+        "name": "Daniel Rodrigues"
     },
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/twinssbc/Ionic2-Calendar.git"
+        "url": "git+https://github.com/danielrf121/Ionic2-Calendar"
     },
     "scripts": {
         "build": "rm -rf dist && tsc",
